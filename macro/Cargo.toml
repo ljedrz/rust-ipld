@@ -9,4 +9,4 @@ repository = "https://github.com/ipfs-rust/rust-ipld"
 
 [dependencies]
 libipld-base = { version = "0.1.0", path = "../base" }
-multihash = "0.11.2"
+multihash = "0.11"
